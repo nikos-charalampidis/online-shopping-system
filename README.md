@@ -82,10 +82,6 @@ https://github.com/PuneethReddyHC/event-management
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/storepage1.png)
 
 
-
-
-
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
