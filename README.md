@@ -59,8 +59,6 @@ https://github.com/PuneethReddyHC/event-management
 
 ##  If you like my project hit a star button
 
-
-
 # Screenshots
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adduser.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/adminproductadd.png)
